@@ -34,4 +34,10 @@ git add 'file-name'
  -----------------
  some problem can be fixed by : 
  git push -f origin master
+ ----------
+ how to save chagnes to a file using git : 
+ git add . 
+ git commit -m 'learngit'
+ git push oringin master 
+ -------
 
