@@ -31,3 +31,7 @@ git add "file-name"
 git remote add origin https://github.com/MuhamedSidi/myproject.git
 git add 'file-name'
  git push origin master 
+ -----------------
+ some problem can be fixed by : 
+ git push -f origin master
+
